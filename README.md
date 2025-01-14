@@ -6,18 +6,23 @@ I’m Chirag Jadav, a Senior Data Analyst at Hughes Network Systems and an Adjun
 💡 What I Do:
 
 Analyze and interpret complex data systems to derive meaningful insights at Hughes Network Systems.
+
 Teach Data Management at UMBC, shaping the next generation of data scientists.
+
 Build data models, optimize ETL pipelines, and craft SQL scripts to streamline workflows and enhance decision-making.
 
 🎓 Academic Achievements:
 
 Master’s in Data Science (4.0 GPA) from UMBC, where I supported courses like "Data Management" and "Big Data Platforms" as a Teaching Assistant for 1.5 years.
+
 Specialize in Python, SQL, DBMS, Tableau, Excel, ETL tools, and project management.
 
 🏆 Career Highlights:
 
 Spearheaded data-driven projects for clients like GE Power and Johnson & Johnson as a Senior Data Engineer at Tata Consultancy Services.
+
 Designed and optimized ETL jobs in Talend, achieving a 97% data accuracy rate and driving $100K in annual cost savings.
+
 Led cross-functional teams to develop scalable data warehouse solutions and ensure seamless integration across systems.
 
 🚀 Passion for Innovation: 
