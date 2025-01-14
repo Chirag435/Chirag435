@@ -1,5 +1,25 @@
 # 💫 About Me:
-As a highly accomplished Senior Data Engineer with Tata Consultancy Services, I have a proven track record of developing, maintaining, and optimizing complex data models, warehouses, and ETL jobs, benefitting over 700 users. I possess exceptional leadership skills, having managed and coordinated a cross-functional team to ensure data quality, resulting in on-time project deliveries with 97% accuracy. I also migrated more than 2000 jobs and optimized SQL scripts at every migration into different databases. <br><br>With a perfect GPA of 4 out of 4 from the University of Maryland Baltimore County, I have a solid foundation in data science. As a Graduate Teaching Assistant, I have gained extensive experience in "Data Management" and "Platforms for Big Data Processing." My passion for data extends beyond the classroom, as I continuously seek to improve my skills and deliver meaningful insights. I possess a strong analytical mindset and excel at analyzing complex data sets to derive actionable insights. With my exceptional communication skills and a track record of delivering successful projects, I am eager to contribute my expertise to a dynamic organization.
+"The universe is full of data, and I am its interpreter, uncovering patterns and unlocking potential."
+
+I’m Chirag Jadav, a Senior Data Analyst at Hughes Network Systems and an Adjunct Professor at the University of Maryland Baltimore County (UMBC), with over 8 years of expertise in data analytics, pipelines, visualization, and large-scale solutions. My passion lies in transforming complex datasets into actionable insights that drive innovation.
+
+💡 What I Do:
+
+Analyze and interpret complex data systems to derive meaningful insights at Hughes Network Systems.
+Teach Data Management at UMBC, shaping the next generation of data scientists.
+Build data models, optimize ETL pipelines, and craft SQL scripts to streamline workflows and enhance decision-making.
+🎓 Academic Achievements:
+
+Master’s in Data Science (4.0 GPA) from UMBC, where I supported courses like "Data Management" and "Big Data Platforms" as a Teaching Assistant for 1.5 years.
+Specialize in Python, SQL, DBMS, Tableau, Excel, ETL tools, and project management.
+🏆 Career Highlights:
+
+Spearheaded data-driven projects for clients like GE Power and Johnson & Johnson as a Senior Data Engineer at Tata Consultancy Services.
+Designed and optimized ETL jobs in Talend, achieving a 97% data accuracy rate and driving $100K in annual cost savings.
+Led cross-functional teams to develop scalable data warehouse solutions and ensure seamless integration across systems.
+🚀 Passion for Innovation: I thrive on solving complex problems through data, blending technical expertise with a creative approach to unlock value and drive results.
+
+Let’s connect and collaborate on projects that push the boundaries of what’s possible with data!
 
 
 ## 🌐 Socials:
